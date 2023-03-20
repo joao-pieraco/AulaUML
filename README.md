@@ -15,3 +15,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/cae86ae40b3de376999954fe6611c57354f0d082/Exercicio2Ettore.svg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/cae86ae40b3de376999954fe6611c57354f0d082/Exercicio2Ettore.svg">
 </picture>
+
+---
+
+# Crie um algoritmo que receba uma temperatura em Fahrenheit e converta para Celsius
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
+</picture>
