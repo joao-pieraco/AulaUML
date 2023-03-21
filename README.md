@@ -41,6 +41,15 @@
 
 # Crie um algoritmo que receba uma temperatura em Fahrenheit e converta para Celsius
 
+## Caso de uso
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/79f2ba95d5a8808790769f74ab2e8c815b3e11a1/CasoDeUsoexer3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/79f2ba95d5a8808790769f74ab2e8c815b3e11a1/CasoDeUsoexer3.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/79f2ba95d5a8808790769f74ab2e8c815b3e11a1/CasoDeUsoexer3.svg">
+</picture>
+
+## Caso de atividade
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
