@@ -27,6 +27,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/dd4283fa34ff1f4016ae4ea2ee8b4e6a580aa49f/CasoDeUsoexer2.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/dd4283fa34ff1f4016ae4ea2ee8b4e6a580aa49f/CasoDeUsoexer2.svg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/dd4283fa34ff1f4016ae4ea2ee8b4e6a580aa49f/CasoDeUsoexer2.svg">
+  </picture> 
 
   ## Caso de atividade
 
