@@ -48,7 +48,7 @@
 
 ---
 
-#Crie um algoritmo que receba a altura e o peso de uma pessoa e mostre seu Índice de Massa Corporal (IMC)
+# Crie um algoritmo que receba a altura e o peso de uma pessoa e mostre seu Índice de Massa Corporal (IMC)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
