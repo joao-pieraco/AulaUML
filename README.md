@@ -61,7 +61,7 @@
 # Crie um algoritmo que receba a altura e o peso de uma pessoa e mostre seu Índice de Massa Corporal (IMC)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/0200a9eddf1504ec8c93a78534c420864d0d0a07/Exercicio3Ettore.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/60a08a546d93202d6f23affac0415ab8c628df50/Exercicio3Ettore.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/60a08a546d93202d6f23affac0415ab8c628df50/Exercicio3Ettore.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/60a08a546d93202d6f23affac0415ab8c628df50/Exercicio3Ettore.svg">
 </picture>
