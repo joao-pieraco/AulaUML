@@ -75,3 +75,31 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/a79db0698ffce1e2db8142d073f318ce1fd12335/exercicio4Ettore.svg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/a79db0698ffce1e2db8142d073f318ce1fd12335/exercicio4Ettore.svg">
 </picture>
+
+---
+
+# Zé Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (30 quilos) deve pagar uma multa de R$ 3,00 por quilo excedente. Zé precisa que você faça um algoritmo que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que Zé deverá pagar. Imprima os dados do algoritmo com as mensagens adequadas.
+
+## Caso de uso
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeUsoexer5.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeUsoexer5.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeUsoexer5.svg">
+</picture>
+
+## Caso de atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeAtividadeexer5.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeAtividadeexer5.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeAtividadeexer5.svg">
+</picture>
+
+## IF
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeAtividadeexer5IF.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeAtividadeexer5IF.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/9960f94440270cd6d4d498945d2394acb9fd03ee/CasoDeAtividadeexer5IF.svg">
+</picture>
