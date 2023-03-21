@@ -11,9 +11,9 @@
 # Crie um algoritmo que pergunte quanto você ganha por hora e o número de horas que você trabalha por mês, o algoritmo deve calcular e mostrar qual seu salário naquele mês
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/cae86ae40b3de376999954fe6611c57354f0d082/Exercicio2Ettore.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/cae86ae40b3de376999954fe6611c57354f0d082/Exercicio2Ettore.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/cae86ae40b3de376999954fe6611c57354f0d082/Exercicio2Ettore.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-pieraco/AulaUML/blob/a1b5199bff36c6a37f7ef41a9a55a2493ced0b4f/Exercicio2Ettore.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-pieraco/AulaUML/blob/a1b5199bff36c6a37f7ef41a9a55a2493ced0b4f/Exercicio2Ettore.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joao-pieraco/AulaUML/blob/a1b5199bff36c6a37f7ef41a9a55a2493ced0b4f/Exercicio2Ettore.svg">
 </picture>
 
 ---
